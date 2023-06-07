@@ -31,6 +31,8 @@ Example Solver In C++
 
 ### Api
 http://54.36.0.86/captcha=[CaptchaUID]
+http://54.36.0.86/captcha=d70be9c4-d8d7-4355-bac4-0384baf6d216
+
 
 ### Information
 Solve Time 0-1.2 Seconds.<br>
